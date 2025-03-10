@@ -1,0 +1,22 @@
+# see https://jupyterbook.org/customize/config.html
+title: LISA Response (on JAX)
+author: Avi
+
+execute:
+  execute_notebooks: 'off'
+
+
+
+repository:
+  url: https://github.com/avivajpeyi/lisa-response-jax
+  path_to_book: docs
+  branch: main
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+
+
+sphinx:
+  extra_extensions:
+    - sphinx.ext.autodoc
