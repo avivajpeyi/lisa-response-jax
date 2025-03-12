@@ -1,5 +1,7 @@
 # LISA Response (on JAX)
 
+(WORK IN PROGRESS)
+
 This repository contains the code for the LISA response on JAX. 
 All the code has been adapted from Mike Katz's cupy [repository](https://github.com/mikekatz04/lisa-on-gpu).
 
